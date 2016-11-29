@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/marcosdemelo/computer-on-the-beach.png?label=ready&title=Ready)](https://waffle.io/marcosdemelo/computer-on-the-beach)
 # Computer on the beach
 
 Equipe Asseinfo
