@@ -1,3 +1,6 @@
+[![Throughput Graph](https://graphs.waffle.io/marcosdemelo/computer-on-the-beach/throughput.svg)](https://waffle.io/marcosdemelo/computer-on-the-beach/metrics/throughput)
+
+
 # Computer on the beach
 
 Equipe Asseinfo
